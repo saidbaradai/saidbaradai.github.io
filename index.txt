@@ -45,7 +45,7 @@
             <a href="#featured">featured</a>
             <a href="#arrivals">arrivals</a>
             <a href="#reviews">reviews</a>
-            <a href="#blogs">blogs</a>
+            <a href="#blogs">blogss</a>
         </nav>
     </div>
 
