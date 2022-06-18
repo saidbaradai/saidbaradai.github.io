@@ -25,7 +25,7 @@ window.onscroll = () =>{
   }
 
 }
-
+/*
 window.onload = () =>{
 
   if(window.scrollY > 80){
@@ -36,7 +36,7 @@ window.onload = () =>{
 
   fadeOut();
 
-}
+}*/
 
 function loader(){
   document.querySelector('.loader-container').classList.add('active');
